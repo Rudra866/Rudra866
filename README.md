@@ -21,6 +21,16 @@ I'm a Computer Science Honours student. I thrive in designing efficient systems,
 
 ---
 
+### 🌌 Hobbies Beyond Code
+<p align="center">
+  🪐 Astronomy and Space 
+  📚 Sci-fi Novels & Video Games
+  🚶‍♂️ Night Walks Under Starry Skies  
+   🧩 Logic Puzzles  
+</p>
+
+---
+
 ### 🌐 How to Reach Me
 <p align="center">
   <a href="mailto:patelrudra866@gmail.com.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -33,6 +43,19 @@ I'm a Computer Science Honours student. I thrive in designing efficient systems,
 ### 🌟 My Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,linux,git,vim,mysql,aws" alt="Skills">
+</p>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rudra866&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra866&theme=tokyonight" alt="GitHub Streak">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra866&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 ---
