@@ -7,5 +7,14 @@
 </p>
 
 ---
-### About Me
-> "Innovation isn't just a goal; it's desire, passion and will to create something new!"
+### 🌌 About Me
+"Innovation isn't just a goal; it's desire, passion and will to create something new!"
+I'm a Computer Science Honours student. I thrive in designing efficient systems, solving problems, and creating tools that elevate user experiences. Whether it's distributed systems, AI/ML models, or operating systems, I aim to leave a mark on every line of code I write. 
+
+---
+
+### ⚡ Quick Stats
+- **🔭 Exploring:** Actor Models, Working with Operating systems, AI/ML modelling, Software Engineering, Full-Stack Web Development, GUI Development, Game Development
+- **🛠️ Programming Languages:** C/C++, Python, Java, JavaScript, HTML/CSS, Fortran, Scala, MIPS Assembly, Prolog
+- **🔭 Developer Tools:** QEMU, GDB, JetBrains IDEs, CMake, Docker, Git, Bash
+- **⚙️ Frameworks & Libraries:** Next.js, Node.js, React, PyTorch, SUMMA, SUNDIALS, CAF, Akka Actors, Jest
