@@ -52,7 +52,7 @@ I'm a Computer Science Honours student. I thrive in designing efficient systems,
   <img src="https://github-readme-stats.vercel.app/api?username=Rudra866&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra866&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudra866&theme=tokyonight" alt="GitHub Streak">
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra866&layout=compact&theme=tokyonight" alt="Top Languages">
